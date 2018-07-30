@@ -7,5 +7,5 @@ And the email will be sent thourgh SMTP, so you need an mail account which suppo
 
 # HOW TO USE IT
 1. you need to download all these files and put them on your sever(not just open them like file://c/....)
-2. change your personal information in welcome.php according to the annotation
+2. change your personal information in welcome.php according to the annotation in it
 3. load index.html on your sever, and use it to send an email
