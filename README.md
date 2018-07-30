@@ -2,7 +2,7 @@
 
 This is an example to send email on you personal website by PHPMailer.(https://github.com/PHPMailer/PHPMailer)
 
-The email will be sent thourgh SMTP, so you need an mail account which supports SMTP to send a email, like qq, 163, gmail.
+The email will be sent thourgh SMTP, so you need a mail account which supports SMTP to send a email, like qq, 163, gmail.
 
 
 # HOW TO USE IT
