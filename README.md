@@ -1,6 +1,6 @@
 # html-sendemail
 
-These code are used to send email on you personal website by PHPMailer.(https://github.com/PHPMailer/PHPMailer)
+This is an example to send email on you personal website by PHPMailer.(https://github.com/PHPMailer/PHPMailer)
 
 And the email will be sent thourgh SMTP, so you need an mail account which supports SMTP to send a email, like qq, 163, gmail....
 
